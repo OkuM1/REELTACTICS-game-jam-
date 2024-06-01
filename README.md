@@ -1,7 +1,7 @@
 # REELTACTICS-game-jam-
 A turn based strategy game with minigames competing against AI enemies.
 
-![Game Logo](/home/murat/dev/REELTACTICS-game-jam-/jamcover.png)
+![Game Logo](jamcover.png)
 
 ## Overview
 
@@ -22,13 +22,6 @@ You can try the game directly on itch.io:
 
 [Play Reel Tactics: Get Rich or Die Tryin' on itch.io](https://okumu.itch.io/reel-tactics-get-rich-or-die-tryin)
 
-## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-*Caption for screenshot 1*
 
-![Screenshot 2](screenshots/screenshot2.png)
-*Caption for screenshot 2*
-
-![Screenshot 3](screenshots/screenshot3.png)
-*Caption for screenshot 3*
+- Created as a 2 person team project with a mdominik.
