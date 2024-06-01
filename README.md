@@ -5,8 +5,10 @@ A turn based strategy game with minigames competing against AI enemies.
 
 ## Overview
 
-Welcome to the **Godot Fishing Game**! This project is a turn-based strategy game where the player competes against NPCs to catch fish, sell them, and accumulate the most wealth. The game includes features such as dynamic NPC behavior, special events, and a feedback loop where player actions influence NPC actions.
+Welcome to the **Godot Fishing Game**! This project is a turn-based strategy game where the player competes against NPCs to catch fish, sell them, and accumulate the most wealth. 
+The game includes features such as dynamic NPC behavior, special events, and a feedback loop where player actions influence NPC actions.
 
+Created in the Godot Game Engine. Written entirely in gdScript.
 ## Features
 
 - **Turn-Based Strategy**: Compete against NPCs in a strategic fishing competition.
@@ -22,6 +24,9 @@ You can try the game directly on itch.io:
 
 [Play Reel Tactics: Get Rich or Die Tryin' on itch.io](https://okumu.itch.io/reel-tactics-get-rich-or-die-tryin)
 
+
+This repo was created as a showcase repo.
+The sourcecode is private. If there is further interest I am happy to explain how we implemented all the functionalities with code examples.
 
 
 - Created as a 2 person team project with a mdominik.
